@@ -1,0 +1,13 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/Rosnok/Blue-Archive-Portrait-Pack/main/baportraitpack.version",
+    "modName":"Blue Archive Portrait Pack",
+    #"modThreadId":N/A,
+    "modVersion":
+    {
+        "major":1,
+        "minor":2,
+        "patch":0 # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+    },
+    "starsectorVersion":"0.96a-RC10",
+    "directDownloadURL":"https://github.com/Rosnok/Blue-Archive-Portrait-Pack/releases/download/v1.2/Blue.Archive.Portrait.Pack.zip"
+}
